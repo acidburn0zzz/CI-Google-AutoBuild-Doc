@@ -40,7 +40,7 @@ require (
 	github.com/sourcegraph/syntaxhighlight v0.0.0-20170531221838-bd320f5d308e // indirect
 	github.com/stretchr/testify v1.3.0 // indirect
 	golang.org/x/build v0.0.0-20190313234014-6d820572de7c
-	golang.org/x/sys v0.0.0-20190312061237-fead79001313 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/tools v0.0.0-20190313193421-dbad8e90c91b // indirect
 	sourcegraph.com/sourcegraph/go-diff v0.5.0 // indirect
 )
